@@ -1,0 +1,4 @@
+1) Remove hard coded Rectangles to takeScreen shot, allowing the user to select specific Rectangle Area.
+2) Remove hard coded min life/mana from Tibia bot, allowing the user to choose specific values.
+3) Add some friendly user interface to TibiaBot so that the user start/stop the bot, choose min life/mana to use potions, etc, etc.
+4) Add some RNA to DigitRecognizer in order to get reliable results to parse digits, because the current method will fail if user screen's resolution changes.
